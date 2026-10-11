@@ -60,7 +60,5 @@
    DOI: [10.1002/adma.202200042](https://doi.org/10.1002/adma.202200042)
 4. Paramanik, S., Maiti, A., Chatterjee, S., & Pal, A. J. (2021). *Large Resistive Switching and Artificial Synaptic Behaviors in Layered $\text{Cs}_3\text{Sb}_2\text{I}_9$ Lead-Free Perovskite Memory Devices.* **Advanced Electronic Materials**, 8(1), 2100237.  
    DOI: [10.1002/aelm.202100237](https://doi.org/10.1002/aelm.202100237)
-5. Deng, K., et al. (2024). *Green solvent strategies for the sustainable development of perovskite solar cells.* **Energy & Environmental Science**, 17(10), 3450–3485.  
-   DOI: [10.1039/D4EE01311E](https://doi.org/10.1039/D4EE01311E)
-6. Sun, X., et al. (2024–2025). *Advances in Metal Halide Perovskite Memristors: A Review from a Co-Design Perspective.* **Advanced Science**, 12(3), 2409291.  
+5. Sun, X., et al. (2024–2025). *Advances in Metal Halide Perovskite Memristors: A Review from a Co-Design Perspective.* **Advanced Science**, 12(3), 2409291.  
    DOI: [10.1002/advs.202409291](https://doi.org/10.1002/advs.202409291)
